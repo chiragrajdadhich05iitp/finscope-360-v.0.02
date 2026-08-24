@@ -1,4 +1,3 @@
-```markdown
 # <div align="center">🌐 FINSCOPE 360™ — Institutional Macro & Geopolitical Intelligence Terminal</div>
 
 <div align="center">
