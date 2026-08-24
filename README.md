@@ -93,7 +93,7 @@ graph TD
 
 * **Node.js**: `v18.17.0` or higher
 * **Package Manager**: `npm` / `yarn` / `pnpm`
-* **Google Gemini API Key**: [Get API Key here](https://aistudio.google.com/)
+
 
 ### 1. Clone the Repository
 
