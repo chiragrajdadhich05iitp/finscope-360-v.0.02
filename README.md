@@ -12,7 +12,7 @@
 
 **An enterprise-grade, real-time macroeconomic terminal and geospatial energy nexus tailored for Indian capital markets, institutional desks, and geopolitical risk analysis.**
 
-[Live Production Demo](https://finscope-360.onrender.com) • [Architecture Breakdown](#-system-architecture) • [Core Capabilities](#-core-capabilities) • [Local Deployment](#-local-deployment)
+[Live Production Demo]([https://finscope-360.onrender.com](https://finscope-360-v-0-02.onrender.com/ai-intel)) • [Architecture Breakdown](#-system-architecture) • [Core Capabilities](#-core-capabilities) • [Local Deployment](#-local-deployment)
 
 </div>
 
